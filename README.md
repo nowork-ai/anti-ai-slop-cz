@@ -1,6 +1,6 @@
 # Anti-AI slop psaní v češtině
 
-Pravidla, díky kterým AI píše český text jako konkrétní člověk, ne jako generický marketing. Funguje ve dvou režimech: jako krátký prompt do AI chatu (ChatGPT, Claude, Gemini, Copilot) a jako skill pro AI agenty (Claude Code, Codex, Cursor, Gemini CLI).
+Pravidla, díky kterým AI píše český text jako člověk a nikoliv jako AI generátor. Funguje ve dvou režimech: jako krátký prompt do AI chatu (ChatGPT, Claude, Gemini, Copilot) a jako skill pro AI agenty (Claude Code, Codex, Cursor, Gemini CLI).
 
 Inspirováno [jalaalrd/anti-ai-slop-writing](https://github.com/jalaalrd/anti-ai-slop-writing), přepracováno pro češtinu a běžné firemní použití.
 
