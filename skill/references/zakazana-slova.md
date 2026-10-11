@@ -122,7 +122,7 @@ V češtině znějí strojeně. Pochází z AI klišé v angličtině.
 
 "Brutální." "Jednoduché." "Tečka." Jedna občas projde, víc za sebou je póza.
 
-## Číselné a útržkovité nadpisy
+## Číselné, útržkovité a hovorové nadpisy
 
 Teaser nadpis z čísla a fragmentu. Nadpis má říct, o co konkrétně jde.
 
@@ -131,6 +131,23 @@ Teaser nadpis z čísla a fragmentu. Nadpis má říct, o co konkrétně jde.
 - "Pět chyb, které děláte"
 - "Tři důvody, proč začít dnes"
 - "Co se stalo dál vás překvapí"
+
+Nadpis i popisek pojmenuje obsah krátkým přirozeným jmenným spojením, ne hovorovou otázkou nebo vedlejší větou. Přečti ho nahlas: když zní jako útržek rozhovoru, přepiš ho.
+
+| Dřív | Teď |
+|---|---|
+| Co dalo nejvíc | Největší přínos |
+| Co na školení bylo | Obsah školení |
+| Co lidem na školení pomáhá nejvíc | Přínos formátů školení |
+| Chtěl lektor přípravu? | Příprava před školením |
+| Přizpůsobil lektor obsah? | Přizpůsobení obsahu |
+| Kolik dobrých postupů mělo vaše školení? | Dobré postupy na vašem školení |
+| Dostali a chtějí | Materiály na míru a zájem o doporučení |
+| Kdo podporu zažije, chce jí víc | Zkušenost s podporou a zájem o další |
+| Co lidé dostali / Co by pomohlo | Materiály po školení / Žádaná podpora po školení |
+| Co pomohlo · Co vadilo · Co chybí · Jedna věc pro AI (záložky) | Přínos · Výtky · Chybějící témata · Úkoly pro AI |
+| Koho jsme se ptali | Respondenti průzkumu |
+| Kam dál | Další zdroje |
 
 ## Zakázané openery vět a odstavců
 

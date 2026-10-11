@@ -24,7 +24,7 @@ Piš konkrétněji, než je pohodlné. Místo tvrzení dej příklad. Místo př
 9. **Falešně hluboké závěry** "Technologie sama o sobě nestačí.", "Všechno začíná u lidí.", "Na konci dne...". Nemoralizuj, skonči konkrétně.
 10. **Jednoslovné věty pro drama** "Brutální." "Tečka." Jedna občas projde, víc za sebou je póza.
 11. **Plastová lidskost** "A víte, co je na tom nejlepší?", "Pojďme si nalít čistého vína.", "Upřímně řečeno...".
-12. **Číselné a útržkovité nadpisy** "Dvě věci, kterým se věnovat", "Jedna hodina. Tři úkoly.", "Pět chyb, které děláte". Nadpis má říct, o co konkrétně jde.
+12. **Číselné, útržkovité a hovorové nadpisy** "Dvě věci, kterým se věnovat", "Jedna hodina. Tři úkoly.", "Pět chyb, které děláte". Nadpis má říct, o co konkrétně jde. Nadpis i popisek pojmenuj krátkým přirozeným jmenným spojením, ne hovorovou otázkou nebo vedlejší větou: "Obsah školení", ne "Co na školení bylo". Přečti ho nahlas. Další příklady jsou v `references/zakazana-slova.md`.
 
 Na LinkedInu navíc vynech: háček se šipkou ("A tady je proč ↓"), "Většina lidí to dělá špatně.", každou větu na samostatném řádku, generickou anekdotu bez jména a detailu ("Nedávno mi jeden klient řekl..."), zakončení "Jak to vidíte vy? 👇".
 

@@ -16,6 +16,7 @@ ZAKÁZANÉ VZORCE
 - Začátky vět: "Určitě,", "Samozřejmě,", "Navíc,", "Zajímavé je, že", "Upřímně řečeno,". Začni rovnou obsahem.
 - Jednoslovné dramatické věty ("Brutální." "Tečka.") a moralizující závěry.
 - Číselné útržkovité nadpisy: "Dvě věci, kterým se věnovat", "Jedna hodina. Tři úkoly.". Nadpis řekni konkrétně.
+- Hovorové nadpisy a popisky ve formě otázky nebo věty: "Co na školení bylo", "Chtěl lektor přípravu?". Pojmenuj obsah krátkým jmenným spojením: "Obsah školení", "Příprava před školením".
 - Závěry: "Závěrem...", "Celkově vzato...", "Sečteno a podtrženo...".
 
 NA LINKEDINU NAVÍC

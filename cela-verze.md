@@ -177,7 +177,7 @@ AI se snaží znít neformálně přesně tam, kde to zní falešně. Sem patř�
 
 Vyhněte se: "A víte, co je na tom nejlepší?", "Dovolte mi vám říct...", "Pojďme si nalít čistého vína.", "Upřímně řečeno...", "Ale pozor...", "Dobrá zpráva? Špatná zpráva?", "A teď to nejdůležitější."
 
-### 12. Číselné a útržkovité nadpisy
+### 12. Číselné, útržkovité a hovorové nadpisy
 
 AI ráda dělá teaser nadpisy z čísla a fragmentu. Zní svižně, ale jsou prázdné a všechny vypadají stejně.
 
@@ -192,6 +192,23 @@ Nadpis má říct, o co konkrétně jde.
 Lépe:
 
 > Co stihnete s AI za první hodinu: přepis schůzky, návrh odpovědi klientovi a osnovu prezentace.
+
+Druhý častý problém jsou hovorové nadpisy a popisky ve formě otázky nebo vedlejší věty. Objevují se hlavně v reportech, prezentacích, na webu a na záložkách. Nadpis i popisek má obsah pojmenovat krátkým a přirozeným jmenným spojením. Přečtěte ho nahlas: když zní jako útržek rozhovoru, přepište ho.
+
+| Dřív | Teď |
+|---|---|
+| Co dalo nejvíc | Největší přínos |
+| Co na školení bylo | Obsah školení |
+| Co lidem na školení pomáhá nejvíc | Přínos formátů školení |
+| Chtěl lektor přípravu? | Příprava před školením |
+| Přizpůsobil lektor obsah? | Přizpůsobení obsahu |
+| Kolik dobrých postupů mělo vaše školení? | Dobré postupy na vašem školení |
+| Dostali a chtějí | Materiály na míru a zájem o doporučení |
+| Kdo podporu zažije, chce jí víc | Zkušenost s podporou a zájem o další |
+| Co lidé dostali / Co by pomohlo | Materiály po školení / Žádaná podpora po školení |
+| Co pomohlo · Co vadilo · Co chybí · Jedna věc pro AI (záložky) | Přínos · Výtky · Chybějící témata · Úkoly pro AI |
+| Koho jsme se ptali | Respondenti průzkumu |
+| Kam dál | Další zdroje |
 
 ## LinkedIn vzorce
 

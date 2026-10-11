@@ -57,6 +57,7 @@ RYTMUS
 - Míchej délku vět, nedávej tři stejně dlouhé za sebou.
 - Nedělej automaticky trojice. Žádné jednoslovné dramatické věty ("Brutální." "Tečka.").
 - Žádné útržkovité nadpisy "Dvě věci, kterým se věnovat" / "Jedna hodina. Tři úkoly.".
+- Nadpis a popisek pojmenuj krátkým jmenným spojením ("Obsah školení"), ne hovorovou otázkou nebo větou ("Co na školení bylo").
 - Odrážky jen pro skutečné seznamy.
 
 INTERPUNKCE A FORMÁT
